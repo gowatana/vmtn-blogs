@@ -24,12 +24,12 @@
 | 395 | [2019/08/28](https://communities.vmware.com/people/gowatana/blog/2019/08/28/k8s-csi-vsan) | vSphere / vSAN 6.7 U3 と Kubernetes で VMware Cloud Native Storage を試してみる。 | 採用 |
 | 394 | [2019/07/27](https://communities.vmware.com/people/gowatana/blog/2019/07/27/nsxt-dhcp-02) | NSX-T 2.4 で DHCP の static-bindings を使用してみる。（API 編） | 採用 |
 | 393 | [2019/07/23](https://communities.vmware.com/people/gowatana/blog/2019/07/23/nsxt-dhcp-01) | NSX-T 2.4 で DHCP の static-bindings を使用してみる。（GUI 編） | 採用 |
-"| 392 | [2019/06/29](https://communities.vmware.com/people/gowatana/blog/2019/06/29/nsxt-api-06) | 	NSX-T 2.4 を REST API で操作してみる。（DELETE 編） | 採用 |"
-"| 391 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-05) | 	NSX-T 2.4 を REST API で操作してみる。Part.5 | 採用 |"
+| 392 | [2019/06/29](https://communities.vmware.com/people/gowatana/blog/2019/06/29/nsxt-api-06) | 	NSX-T 2.4 を REST API で操作してみる。（DELETE 編） | 採用 |
+| 391 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-05) | 	NSX-T 2.4 を REST API で操作してみる。Part.5 | 採用 |
 | 390 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-04) | NSX-T 2.4 を REST API で操作してみる。Part.4 | 採用 |
 | 389 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-03) | NSX-T 2.4 を REST API で操作してみる。Part.3 | 採用 |
 | 388 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-02) | NSX-T 2.4 を REST API で操作してみる。Part.2 | 採用 |
-"| 387 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-01) | 	NSX-T 2.4 を REST API で操作してみる。Part.1 | 採用 |"
+| 387 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-01) | 	NSX-T 2.4 を REST API で操作してみる。Part.1 | 採用 |
 | 386 | [2019/06/20](https://communities.vmware.com/people/gowatana/blog/2019/06/20/powercli-11-3-nsxt) | PowerCLI 11.3 で NSX-T 論理スイッチを取得してみる。 | 採用 |
 | 385 | [2019/06/19](https://communities.vmware.com/people/gowatana/blog/2019/06/19/nsxt24-lab-summary) | 自宅ラボで NSX-T 2.4 環境を構築する。まとめ |  |
 | 384 | [2019/06/18](https://communities.vmware.com/people/gowatana/blog/2019/06/18/nsxt24-lab-11) | 自宅ラボで NSX-T 2.4 環境を構築する。Part.11 | Page-2-開始 |
