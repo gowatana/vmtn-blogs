@@ -2,7 +2,7 @@
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
-| 414 | [2020/03/05](https://communities.vmware.com/people/gowatana/blog/2020/03/05/vsan-scsi3pr) | vSAN の SCSI-3 Persistent Reservation（SCSI-3 PR）を Linux で確認してみる。 | Page-1-開始 |
+| 414 | [2020/03/05](https://communities.vmware.com/people/gowatana/blog/2020/03/05/vsan-scsi3pr) | vSAN の SCSI-3 Persistent Reservation（SCSI-3 PR）を Linux で確認してみる。 |  |
 | 413 | [2020/02/27](https://communities.vmware.com/people/gowatana/blog/2020/02/27/drs-vmotions) | vCenter と vROps で vMotion / DRS を観察してみる。 |  |
 | 412 | [2020/01/30](https://communities.vmware.com/people/gowatana/blog/2020/01/30/vsan-tweets-2019-12) | vSAN のつぶやき。 Advent Calendar 2019 - ふりかえり。 |  |
 | 411 | [2019/11/30](https://communities.vmware.com/people/gowatana/blog/2019/11/30/vc67-motd) | HTML5 版 vSphere Client でメッセージを伝える。 |  |
@@ -18,21 +18,21 @@
 | 401 | [2019/10/05](https://communities.vmware.com/people/gowatana/blog/2019/10/05/nsxt25-lab-06) | 自宅ラボで NSX-T 2.5 環境を構築する。Simplified UI 編。Part.6 |  |
 | 400 | [2019/10/03](https://communities.vmware.com/people/gowatana/blog/2019/10/03/nsxt25-lab-05) | 自宅ラボで NSX-T 2.5 環境を構築する。Simplified UI 編。Part.5 |  |
 | 399 | [2019/10/02](https://communities.vmware.com/people/gowatana/blog/2019/10/02/nsxt25-lab-04) | 自宅ラボで NSX-T 2.5 環境を構築する。Simplified UI 編。Part.4 |  |
-| 398 | [2019/09/30](https://communities.vmware.com/people/gowatana/blog/2019/09/30/nsxt25-lab-03) | 自宅ラボで NSX-T 2.5 環境を構築する。Simplified UI 編。Part.3 | 採用 |
-| 397 | [2019/09/29](https://communities.vmware.com/people/gowatana/blog/2019/09/29/nsxt25-lab-02) | 自宅ラボで NSX-T 2.5 環境を構築する。Simplified UI 編。Part.2 | 採用 |
+| 398 | [2019/09/30](https://communities.vmware.com/people/gowatana/blog/2019/09/30/nsxt25-lab-03) | 自宅ラボで NSX-T 2.5 環境を構築する。Simplified UI 編。Part.3 |  |
+| 397 | [2019/09/29](https://communities.vmware.com/people/gowatana/blog/2019/09/29/nsxt25-lab-02) | 自宅ラボで NSX-T 2.5 環境を構築する。Simplified UI 編。Part.2 |  |
 | 396 | [2019/09/29](https://communities.vmware.com/people/gowatana/blog/2019/09/29/nsxt25-lab-01) | 自宅ラボで NSX-T 2.5 環境を構築する。Simplified UI 編。Part.1 |  |
-| 395 | [2019/08/28](https://communities.vmware.com/people/gowatana/blog/2019/08/28/k8s-csi-vsan) | vSphere / vSAN 6.7 U3 と Kubernetes で VMware Cloud Native Storage を試してみる。 | 採用 |
-| 394 | [2019/07/27](https://communities.vmware.com/people/gowatana/blog/2019/07/27/nsxt-dhcp-02) | NSX-T 2.4 で DHCP の static-bindings を使用してみる。（API 編） | 採用 |
-| 393 | [2019/07/23](https://communities.vmware.com/people/gowatana/blog/2019/07/23/nsxt-dhcp-01) | NSX-T 2.4 で DHCP の static-bindings を使用してみる。（GUI 編） | 採用 |
-| 392 | [2019/06/29](https://communities.vmware.com/people/gowatana/blog/2019/06/29/nsxt-api-06) | 	NSX-T 2.4 を REST API で操作してみる。（DELETE 編） | 採用 |
-| 391 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-05) | 	NSX-T 2.4 を REST API で操作してみる。Part.5 | 採用 |
-| 390 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-04) | NSX-T 2.4 を REST API で操作してみる。Part.4 | 採用 |
-| 389 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-03) | NSX-T 2.4 を REST API で操作してみる。Part.3 | 採用 |
-| 388 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-02) | NSX-T 2.4 を REST API で操作してみる。Part.2 | 採用 |
-| 387 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-01) | 	NSX-T 2.4 を REST API で操作してみる。Part.1 | 採用 |
-| 386 | [2019/06/20](https://communities.vmware.com/people/gowatana/blog/2019/06/20/powercli-11-3-nsxt) | PowerCLI 11.3 で NSX-T 論理スイッチを取得してみる。 | 採用 |
+| 395 | [2019/08/28](https://communities.vmware.com/people/gowatana/blog/2019/08/28/k8s-csi-vsan) | vSphere / vSAN 6.7 U3 と Kubernetes で VMware Cloud Native Storage を試してみる。 |  |
+| 394 | [2019/07/27](https://communities.vmware.com/people/gowatana/blog/2019/07/27/nsxt-dhcp-02) | NSX-T 2.4 で DHCP の static-bindings を使用してみる。（API 編） |  |
+| 393 | [2019/07/23](https://communities.vmware.com/people/gowatana/blog/2019/07/23/nsxt-dhcp-01) | NSX-T 2.4 で DHCP の static-bindings を使用してみる。（GUI 編） |  |
+| 392 | [2019/06/29](https://communities.vmware.com/people/gowatana/blog/2019/06/29/nsxt-api-06) | 	NSX-T 2.4 を REST API で操作してみる。（DELETE 編） |  |
+| 391 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-05) | 	NSX-T 2.4 を REST API で操作してみる。Part.5 |  |
+| 390 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-04) | NSX-T 2.4 を REST API で操作してみる。Part.4 |  |
+| 389 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-03) | NSX-T 2.4 を REST API で操作してみる。Part.3 |  |
+| 388 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-02) | NSX-T 2.4 を REST API で操作してみる。Part.2 |  |
+| 387 | [2019/06/23](https://communities.vmware.com/people/gowatana/blog/2019/06/23/nsxt-api-01) | 	NSX-T 2.4 を REST API で操作してみる。Part.1 |  |
+| 386 | [2019/06/20](https://communities.vmware.com/people/gowatana/blog/2019/06/20/powercli-11-3-nsxt) | PowerCLI 11.3 で NSX-T 論理スイッチを取得してみる。 |  |
 | 385 | [2019/06/19](https://communities.vmware.com/people/gowatana/blog/2019/06/19/nsxt24-lab-summary) | 自宅ラボで NSX-T 2.4 環境を構築する。まとめ |  |
-| 384 | [2019/06/18](https://communities.vmware.com/people/gowatana/blog/2019/06/18/nsxt24-lab-11) | 自宅ラボで NSX-T 2.4 環境を構築する。Part.11 | Page-2-開始 |
+| 384 | [2019/06/18](https://communities.vmware.com/people/gowatana/blog/2019/06/18/nsxt24-lab-11) | 自宅ラボで NSX-T 2.4 環境を構築する。Part.11 |  |
 | 383 | [2019/06/17](https://communities.vmware.com/people/gowatana/blog/2019/06/17/nsxt24-lab-10) | 自宅ラボで NSX-T 2.4 環境を構築する。Part.10 |  |
 | 382 | [2019/06/16](https://communities.vmware.com/people/gowatana/blog/2019/06/16/nsxt24-lab-09) | 自宅ラボで NSX-T 2.4 環境を構築する。Part.9 |  |
 | 381 | [2019/06/16](https://communities.vmware.com/people/gowatana/blog/2019/06/16/nsxt24-lab-08) | 自宅ラボで NSX-T 2.4 環境を構築する。Part.8 |  |
@@ -62,7 +62,7 @@
 | 357 | [2018/12/16](https://communities.vmware.com/people/gowatana/blog/2018/12/16/nested-vsan-ninja-1217) | ネステッド vSAN 6.7 U1 を楽しむ。2018-12-17 |  |
 | 356 | [2018/12/16](https://communities.vmware.com/people/gowatana/blog/2018/12/16/nested-vsan-ninja-1216) | ネステッド vSAN 6.7 U1 を楽しむ。2018-12-16 |  |
 | 355 | [2018/12/15](https://communities.vmware.com/people/gowatana/blog/2018/12/15/nested-vsan-ninja-1215) | ネステッド vSAN 6.7 U1 を楽しむ。2018-12-15 |  |
-| 354 | [2018/12/14](https://communities.vmware.com/people/gowatana/blog/2018/12/14/nested-vsan-ninja-1214) | ネステッド vSAN 6.7 U1 を楽しむ。2018-12-14 | Page-3-開始 |
+| 354 | [2018/12/14](https://communities.vmware.com/people/gowatana/blog/2018/12/14/nested-vsan-ninja-1214) | ネステッド vSAN 6.7 U1 を楽しむ。2018-12-14 |  |
 | 353 | [2018/12/13](https://communities.vmware.com/people/gowatana/blog/2018/12/13/nested-vsan-ninja-1213) | ネステッド vSAN 6.7 U1 を楽しむ。2018-12-13 |  |
 | 352 | [2018/12/12](https://communities.vmware.com/people/gowatana/blog/2018/12/12/nested-vsan-ninja-1212) | ネステッド vSAN 6.7 U1 を楽しむ。2018-12-12 |  |
 | 351 | [2018/12/11](https://communities.vmware.com/people/gowatana/blog/2018/12/11/nested-vsan-ninja-1211) | ネステッド vSAN 6.7 U1 を楽しむ。2018-12-11 |  |
@@ -92,7 +92,7 @@
 | 327 | [2018/07/28](https://communities.vmware.com/people/gowatana/blog/2018/07/28/powercli-nested-vsan-tips) | PowerCLI で ネステッド ESXi 環境むけの VSAN.FakeSCSIReservations を設定してみる。 |  |
 | 326 | [2018/07/15](https://communities.vmware.com/people/gowatana/blog/2018/07/15/powercli-cdrom-eject) | PowerCLI で VM 停止しないように CD/DVD ドライブからメディアを取り出してみる。 |  |
 | 325 | [2018/07/11](https://communities.vmware.com/people/gowatana/blog/2018/07/11/powernsx-syslog) | PowerNSX で NSX Manager / Controller / Edge の Syslog 転送先のサーバを設定してみる。 |  |
-| 324 | [2018/07/08](https://communities.vmware.com/people/gowatana/blog/2018/07/08/powernsx-edge-dhcp) | NSX ESG / DLR で DHCP Server / Relay を構成してみる。（PowerNSX 編） | Page-4-開始 |
+| 324 | [2018/07/08](https://communities.vmware.com/people/gowatana/blog/2018/07/08/powernsx-edge-dhcp) | NSX ESG / DLR で DHCP Server / Relay を構成してみる。（PowerNSX 編） |  |
 | 323 | [2018/07/07](https://communities.vmware.com/people/gowatana/blog/2018/07/07/nsx-edge-dhcp) | NSX ESG / DLR で DHCP Server / Relay を構成してみる。 |  |
 | 322 | [2018/07/05](https://communities.vmware.com/people/gowatana/blog/2018/07/05/nsx-fw-exclusion-list) | PowerNSX で NSX の分散ファイアウォール除外リストを管理する。 |  |
 | 321 | [2018/07/02](https://communities.vmware.com/people/gowatana/blog/2018/07/02/pwernsx-nsxedge-1) | PowerNSX で NSX Edge の構成情報を修正してみる。 |  |
@@ -122,7 +122,7 @@
 | 297 | [2018/03/17](https://communities.vmware.com/people/gowatana/blog/2018/03/17/vsan-rac-powercli-report) | PowerCLI で vSphere / vSAN 環境での Oracle RAC むけ VM の構成情報を取得してみる。 |  |
 | 296 | [2018/03/15](https://communities.vmware.com/people/gowatana/blog/2018/03/15/powercli10-docker) | PowerCLI 10.0 の Docker コンテナを macOS で起動してみる。（PowerNSX も含む） |  |
 | 295 | [2018/03/15](https://communities.vmware.com/people/gowatana/blog/2018/03/15/hcibench-ansible-test) | HCIBench のベンチマーク テスト実行をコマンドライン / Ansible で自動化してみる。 |  |
-| 294 | [2018/03/14](https://communities.vmware.com/people/gowatana/blog/2018/03/14/hcibench-ansible-setup) | HCIBench の設定を Ansible で自動化してみる。 | Page-5-開始 |
+| 294 | [2018/03/14](https://communities.vmware.com/people/gowatana/blog/2018/03/14/hcibench-ansible-setup) | HCIBench の設定を Ansible で自動化してみる。 |  |
 | 293 | [2018/03/13](https://communities.vmware.com/people/gowatana/blog/2018/03/13/powercli-hcibench-deploy) | HCIBench の OVA を PowerCLI でデプロイする。 |  |
 | 292 | [2018/03/07](https://communities.vmware.com/people/gowatana/blog/2018/03/07/vcsa65-cli-deploy) | VCSA 6.5 U1 を CLI デプロイしてみる。（vCenter + embedded-PSC） |  |
 | 291 | [2018/03/05](https://communities.vmware.com/people/gowatana/blog/2018/03/05/powercli10-linux) | Linux で PowerCLI 10.0 をためしてみる。 |  |
@@ -152,7 +152,7 @@
 | 267 | [2017/08/08](https://communities.vmware.com/people/gowatana/blog/2017/08/08/powercli-prompt2) | PowerCLI プロンプト文字列に vCenter への接続状態を反映してみる。 |  |
 | 266 | [2017/07/12](https://communities.vmware.com/people/gowatana/blog/2017/07/12/powernsx-auto-5) | PowerNSX でテナント追加の自動化をしてみる。Part.5 |  |
 | 265 | [2017/07/12](https://communities.vmware.com/people/gowatana/blog/2017/07/12/powernsx-auto-4) | PowerNSX でテナント追加の自動化をしてみる。Part.4 |  |
-| 264 | [2017/07/09](https://communities.vmware.com/people/gowatana/blog/2017/07/09/powernsx-auto-3) | PowerNSX でテナント追加の自動化をしてみる。Part.3 | Page-6-開始 |
+| 264 | [2017/07/09](https://communities.vmware.com/people/gowatana/blog/2017/07/09/powernsx-auto-3) | PowerNSX でテナント追加の自動化をしてみる。Part.3 |  |
 | 263 | [2017/07/07](https://communities.vmware.com/people/gowatana/blog/2017/07/07/powernsx-auto-2) | PowerNSX でテナント追加の自動化をしてみる。Part.2 |  |
 | 262 | [2017/07/05](https://communities.vmware.com/people/gowatana/blog/2017/07/05/powernsx-route) | NSX Edge のスタティック ルート設定を PowerNSX で見てみる。 |  |
 | 261 | [2017/07/05](https://communities.vmware.com/people/gowatana/blog/2017/07/05/powernsx-auto-1) | PowerNSX でテナント追加の自動化をしてみる。Part.1 |  |
@@ -182,7 +182,7 @@
 | 237 | [2017/01/05](https://communities.vmware.com/people/gowatana/blog/2017/01/05/vic10-web-plugin) | vSphere Integrated Containers Engine の vSphere Web Client Plug-In から見る Docker 情報。 |  |
 | 236 | [2016/12/11](https://communities.vmware.com/people/gowatana/blog/2016/12/11/vic-10) | vSphere Integrated Containers (VIC) 1.0 をためしてみる。 |  |
 | 235 | [2016/12/04](https://communities.vmware.com/people/gowatana/blog/2016/12/04/vmtnj2016) | VMware Community の Japanese Online Forum (VMTN Japan) の様子 2016。 |  |
-| 234 | [2016/11/30](https://communities.vmware.com/people/gowatana/blog/2016/11/30/powernsx) | PowerNSX で VMware NSX の論理スイッチ (Logical Switch) を作成してみる。 | Page-7-開始 |
+| 234 | [2016/11/30](https://communities.vmware.com/people/gowatana/blog/2016/11/30/powernsx) | PowerNSX で VMware NSX の論理スイッチ (Logical Switch) を作成してみる。 |  |
 | 233 | [2016/11/13](https://communities.vmware.com/people/gowatana/blog/2016/11/13/dfw-mt) | NSX 6.2 の DFW ルール設定をマルチテナント構成にしてみる。 |  |
 | 232 | [2016/10/20](https://communities.vmware.com/people/gowatana/blog/2016/10/20/powercli-core-cmdlet) | PowerCLI Core 1.0 に含まれるコマンドレットについて。 |  |
 | 231 | [2016/10/18](https://communities.vmware.com/people/gowatana/blog/2016/10/18/powercli-core-photon) | Linux で PowerCLI Core をためす。(Photon OS) |  |
@@ -212,7 +212,7 @@
 | 207 | [2016/05/06](https://communities.vmware.com/people/gowatana/blog/2016/05/06/nsx-api-%E3%81%A7%E3%81%AE-%E5%88%86%E6%95%A3-fw-%E8%A8%AD%E5%AE%9A%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-part-3-hol-sdc-1603-module-3-%E3%82%88%E3%82%8A) | NSX API での 分散 FW 設定を体験してみる。Part 3 （HOL-SDC-1603 Module 3 より） |  |
 | 206 | [2016/05/06](https://communities.vmware.com/people/gowatana/blog/2016/05/06/nsx-api-%E3%81%A7%E3%81%AE-%E5%88%86%E6%95%A3-fw-%E8%A8%AD%E5%AE%9A%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-part-2-hol-sdc-1603-module-3-%E3%82%88%E3%82%8A) | NSX API での 分散 FW 設定を体験してみる。Part 2 （HOL-SDC-1603 Module 3 より） |  |
 | 205 | [2016/05/06](https://communities.vmware.com/people/gowatana/blog/2016/05/06/nsx-api-%E3%81%A7%E3%81%AE-%E5%88%86%E6%95%A3-fw-%E8%A8%AD%E5%AE%9A%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-part-1-hol-sdc-1603-module-3-%E3%82%88%E3%82%8A) | NSX API での 分散 FW 設定を体験してみる。Part 1 （HOL-SDC-1603 Module 3 より） |  |
-| 204 | [2016/05/03](https://communities.vmware.com/people/gowatana/blog/2016/05/03/nsx-api-%E3%81%A7-nw-%E6%A7%8B%E6%88%90%E5%A4%89%E6%9B%B4%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-part-2-hol-sdc-1603-module-2-%E3%82%88%E3%82%8A) | NSX API で NW 構成変更を体験してみる。Part 2（HOL-SDC-1603 Module 2 より） | Page-8-開始 |
+| 204 | [2016/05/03](https://communities.vmware.com/people/gowatana/blog/2016/05/03/nsx-api-%E3%81%A7-nw-%E6%A7%8B%E6%88%90%E5%A4%89%E6%9B%B4%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-part-2-hol-sdc-1603-module-2-%E3%82%88%E3%82%8A) | NSX API で NW 構成変更を体験してみる。Part 2（HOL-SDC-1603 Module 2 より） |  |
 | 203 | [2016/04/29](https://communities.vmware.com/people/gowatana/blog/2016/04/29/nsx-v-%E3%81%AE-api-%E3%82%92-hol-%E3%81%A7%E5%AE%9F%E8%A1%8C%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-firefox-restclient-%E7%B7%A8) | NSX-v の API を HoL で実行してみる。（Firefox RESTClient 編） |  |
 | 202 | [2016/04/26](https://communities.vmware.com/people/gowatana/blog/2016/04/26/nsx-api-%E3%81%A7-nw-%E6%A7%8B%E6%88%90%E5%A4%89%E6%9B%B4%E3%82%92%E4%BD%93%E9%A8%93%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-hol-sdc-1603-module-1) | NSX API で NW 構成変更を体験してみる。（HOL-SDC-1603 Module 1） |  |
 | 201 | [2016/04/24](https://communities.vmware.com/people/gowatana/blog/2016/04/24/nsx-%E3%81%AE-hol-%E3%81%A7-%E5%B7%A5%E5%A4%AB%E3%81%97%E3%81%A6-dfw-%E3%81%A0%E3%81%91%E6%A9%9F%E8%83%BD%E6%A4%9C%E8%A8%BC%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B) | NSX の HoL で 工夫して DFW だけ機能検証してみる。 |  |
@@ -242,7 +242,7 @@
 | 177 | [2015/07/08](https://communities.vmware.com/people/gowatana/blog/2015/07/08/vcloud-conference-2015-tokyo-%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F) | vCloud Conference 2015（Tokyo）行ってきました。 |  |
 | 176 | [2015/07/02](https://communities.vmware.com/people/gowatana/blog/2015/07/02/esxtop-%E3%81%A7-nfs-datastore-%E3%81%AE%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF-davg-%E3%81%8C%E8%BF%BD%E5%8A%A0%E3%81%95%E3%82%8C%E3%81%A6%E3%81%BE%E3%81%97%E3%81%9F) | esxtop で、NFS Datastore のカウンタ（DAVG）が追加されてました。 |  |
 | 175 | [2015/06/16](https://communities.vmware.com/people/gowatana/blog/2015/06/16/vmtn-japan-online-forum-%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94vmware-%E3%81%AE-%E5%80%8B%E4%BA%BA%E7%9A%84%E3%81%AA-%E6%96%87%E5%AD%97%E5%8C%96%E3%81%91%E5%AF%BE%E7%AD%96) | VMTN Japan Online Forum / にほんごVMware の（個人的な）文字化け対策 |  |
-| 174 | [2015/06/01](https://communities.vmware.com/people/gowatana/blog/2015/06/01/photon-linux-%E3%81%AE%E6%99%82%E8%A8%88%E3%82%92%E6%97%A5%E6%9C%AC%E6%99%82%E9%96%93-jst-%E3%81%AB%E3%81%99%E3%82%8B) | Photon Linux の時計を日本時間（JST）にする。 | Page-9-開始 |
+| 174 | [2015/06/01](https://communities.vmware.com/people/gowatana/blog/2015/06/01/photon-linux-%E3%81%AE%E6%99%82%E8%A8%88%E3%82%92%E6%97%A5%E6%9C%AC%E6%99%82%E9%96%93-jst-%E3%81%AB%E3%81%99%E3%82%8B) | Photon Linux の時計を日本時間（JST）にする。 |  |
 | 173 | [2015/06/01](https://communities.vmware.com/people/gowatana/blog/2015/06/01/photon-linux-%E3%81%A7%E3%81%AE-ntp-%E3%82%B5%E3%83%BC%E3%83%90%E3%81%A8%E3%81%AE%E6%99%82%E5%88%BB%E5%90%8C%E6%9C%9F-timesyncd-ntpd) | Photon Linux での NTP サーバとの時刻同期。（systemd-timesyncd / ntpd） |  |
 | 172 | [2015/05/28](https://communities.vmware.com/people/gowatana/blog/2015/05/28/photon-linux-%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B) | Photon Linux で日本語キーボードを使用する。 |  |
 | 171 | [2015/05/27](https://communities.vmware.com/people/gowatana/blog/2015/05/27/photon-linux-%E3%81%B8%E3%81%AE-ssh-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3) | Photon Linux への SSH ログイン。 |  |
@@ -253,9 +253,9 @@
 | 166 | [2015/04/24](https://communities.vmware.com/people/gowatana/blog/2015/04/24/photon-linux-%E3%81%AE-vmware-tools) | Photon Linux の VMware Tools。 |  |
 | 165 | [2015/04/22](https://communities.vmware.com/people/gowatana/blog/2015/04/22/vmware-photon-linux-%E3%81%AE-install-docker-%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E8%B5%B7%E5%8B%95) | VMware Photon Linux の Install ～ Docker コンテナ起動。 |  |
 | 164 | [2015/04/21](https://communities.vmware.com/people/gowatana/blog/2015/04/21/vmware-photon-linux-%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F) | VMware Photon Linux が公開されました。 |  |
-| 163 | [2016/02/29](https://communities.vmware.com/people/gowatana/blog/2016/02/29/esxi-60-%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%AE%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%83%AB%E3%83%BC%E3%83%AB%E5%A4%89%E6%9B%B4%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-powercli-%E3%81%AB%E3%81%A6) | ESXi 6.0 ローカルユーザのパスワードルール変更について。（PowerCLI にて） | 元は2015/04/19 |
-| 162 | [2016/02/29](https://communities.vmware.com/people/gowatana/blog/2016/02/29/vsphere-60-%E3%81%AE-%E6%96%B0%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-web-client-%E3%81%AE%E6%94%B9%E5%96%84) | vSphere 6.0 の 新機能について。（Web Client の改善） | 採用 |
-| 161 | [2015/03/11](https://communities.vmware.com/people/gowatana/blog/2015/03/11/vsphere-60-%E3%81%AE-%E6%96%B0%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-esxi-%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%A6%E3%83%BC%E3%82%B6%E7%AE%A1%E7%90%86) | vSphere 6.0 の 新機能について。（ESXi ローカルユーザ管理） | コメントリンク切れ |
+| 163 | [2015/04/19](https://communities.vmware.com/people/gowatana/blog/2016/02/29/esxi-60-%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%AE%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%83%AB%E3%83%BC%E3%83%AB%E5%A4%89%E6%9B%B4%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-powercli-%E3%81%AB%E3%81%A6) | ESXi 6.0 ローカルユーザのパスワードルール変更について。（PowerCLI にて） |  |
+| 162 | [2016/02/29](https://communities.vmware.com/people/gowatana/blog/2016/02/29/vsphere-60-%E3%81%AE-%E6%96%B0%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-web-client-%E3%81%AE%E6%94%B9%E5%96%84) | vSphere 6.0 の 新機能について。（Web Client の改善） |  |
+| 161 | [2015/03/11](https://communities.vmware.com/people/gowatana/blog/2015/03/11/vsphere-60-%E3%81%AE-%E6%96%B0%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-esxi-%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%A6%E3%83%BC%E3%82%B6%E7%AE%A1%E7%90%86) | vSphere 6.0 の 新機能について。（ESXi ローカルユーザ管理） |  |
 | 160 | [2015/03/09](https://communities.vmware.com/people/gowatana/blog/2015/03/09/vsphere-60-%E3%81%AE-%E6%96%B0%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-vcenter-60-%E3%81%A8-psc) | vSphere 6.0 の 新機能について。（vCenter 6.0 と PSC） |  |
 | 159 | [2015/03/08](https://communities.vmware.com/people/gowatana/blog/2015/03/08/vsphere-60-%E3%81%AE-%E6%96%B0%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-content-library-%E3%81%A7%E3%81%AE-template-%E7%AE%A1%E7%90%86) | vSphere 6.0 の 新機能について。（Content Library での Template 管理） |  |
 | 158 | [2015/02/19](https://communities.vmware.com/people/gowatana/blog/2015/02/19/vsphere-60-%E3%81%AE-%E6%96%B0%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-vsphere-ft-%E3%81%AE-2%E9%87%8D%E5%8C%96%E3%81%AE%E6%94%B9%E5%96%84) | vSphere 6.0 の 新機能について。（vSphere FT の 2重化の改善） |  |
@@ -272,7 +272,7 @@
 | 147 | [2014/12/31](https://communities.vmware.com/people/gowatana/blog/2014/12/31/powercli-%E3%81%AE%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E6%96%87%E5%AD%97%E5%88%97-powercli-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6) | PowerCLI のプロンプト文字列「PowerCLI>」について。 |  |
 | 146 | [2014/12/29](https://communities.vmware.com/people/gowatana/blog/2014/12/29/vsphere-%E3%81%A8-openstack-%E7%AC%AC2%E5%9B%9E-vova-%E3%81%A7%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E8%B5%B7%E5%8B%95) | vSphere と OpenStack。第2回 VOVA でインスタンス起動。 |  |
 | 145 | [2014/12/27](https://communities.vmware.com/people/gowatana/blog/2014/12/27/vsphere-%E3%81%A8-openstack-vova-%E3%81%AE%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6) | vSphere と OpenStack。第1回 VOVA のデプロイについて。 |  |
-| 144 | [2014/12/23](https://communities.vmware.com/people/gowatana/blog/2014/12/23/nsx-v-%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%AF%BE%E7%AD%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-nsx-v-61--security-hardening-guide) | NSX-V のセキュリティ対策について。（NSX-v 6.1 - Security Hardening Guide） | Page-10-開始 |
+| 144 | [2014/12/23](https://communities.vmware.com/people/gowatana/blog/2014/12/23/nsx-v-%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%AF%BE%E7%AD%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-nsx-v-61--security-hardening-guide) | NSX-V のセキュリティ対策について。（NSX-v 6.1 - Security Hardening Guide） |  |
 | 143 | [2014/12/20](https://communities.vmware.com/people/gowatana/blog/2014/12/20/nsx-%E3%81%AE-nsx-v-%E3%81%A8-nsx-mh-%E3%81%AE%E9%81%95%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6) | NSX の NSX-V と NSX-MH の違いについて。 |  |
 | 142 | [2014/12/17](https://communities.vmware.com/people/gowatana/blog/2014/12/17/%E6%9B%B8%E7%B1%8D%E7%B4%B9%E4%BB%8B-vmware-horizon-%E5%B0%8E%E5%85%A5%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89) | 書籍紹介「VMware Horizon 導入実践ガイド」。（Horizon 6） |  |
 | 141 | [2014/11/23](https://communities.vmware.com/people/gowatana/blog/2014/11/23/%E6%9B%B8%E7%B1%8D%E7%B4%B9%E4%BB%8B-vmware%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%AC%E3%82%A4%E3%83%89) | 書籍紹介「VMware自動化ガイド」。 |  |
@@ -302,7 +302,7 @@
 | 117 | [2014/08/24](https://communities.vmware.com/people/gowatana/blog/2014/08/24/vcenter-log-insight-%E3%81%AE%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4) | vCenter Log Insight のデプロイ。 |  |
 | 116 | [2014/08/18](https://communities.vmware.com/people/gowatana/blog/2014/08/18/vcops-%E3%81%AE%E3%83%92%E3%83%BC%E3%83%88%E3%83%9E%E3%83%83%E3%83%97%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B9%E3%83%88%E3%82%A2%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%BF%E3%82%8B) | VCOPS のヒートマップでデータストアを見てみる。 |  |
 | 115 | [2014/08/17](https://communities.vmware.com/people/gowatana/blog/2014/08/17/vss-%E3%81%AE-%E6%A8%99%E6%BA%96%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E8%A6%B3%E5%AF%9F) | vSS の 標準ポートグループ観察。 |  |
-| 114 | [2014/07/27](https://communities.vmware.com/people/gowatana/blog/2014/07/27/powercli-%E3%81%A7%E3%81%AE-vm-%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-new-vm) | PowerCLI での VM クローン について。（New-VM） | Page-11-開始 |
+| 114 | [2014/07/27](https://communities.vmware.com/people/gowatana/blog/2014/07/27/powercli-%E3%81%A7%E3%81%AE-vm-%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-new-vm) | PowerCLI での VM クローン について。（New-VM） |  |
 | 113 | [2014/07/21](https://communities.vmware.com/people/gowatana/blog/2014/07/21/esxi-%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB%E3%81%A8-vm-%E3%81%AE%E9%96%A2%E4%BF%82%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6) | ESXi ファイアウォールと VM の関係について。 |  |
 | 112 | [2014/07/13](https://communities.vmware.com/people/gowatana/blog/2014/07/13/powercli-%E3%81%AE%E5%8F%82%E7%85%A7%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E8%B6%85%E5%85%A5%E9%96%80-get-vmhost) | PowerCLI の参照コマンド超入門。（Get-VMHost） |  |
 | 111 | [2014/06/22](https://communities.vmware.com/people/gowatana/blog/2014/06/22/vsphere-appha-%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81) | vSphere AppHA 環境構築のまとめ。 |  |
@@ -332,7 +332,7 @@
 | 87 | [2014/03/10](https://communities.vmware.com/people/gowatana/blog/2014/03/10/esxcli-%E3%81%AE-esxcli-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89) | esxcli の esxcli コマンド ・・・ |  |
 | 86 | [2014/03/04](https://communities.vmware.com/people/gowatana/blog/2014/03/04/vcenter-operations-manager-vcops-%E5%85%A5%E9%96%80) | vCenter Operations Manager（VCOPS） 入門。 |  |
 | 85 | [2014/03/02](https://communities.vmware.com/people/gowatana/blog/2014/03/02/esxi-%E3%81%AB-vmxnet3-%E3%81%AE-nic-%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%E3%81%A8%E3%81%AF) | ESXi に VMXNET3 の NIC をつけるとは？ |  |
-| 84 | [2014/02/23](https://communities.vmware.com/people/gowatana/blog/2014/02/23/%E3%83%8D%E3%82%B9%E3%83%86%E3%83%83%E3%83%89esxi-%E3%81%A7%E4%BB%AE%E6%83%B3%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81-vlan-vlan4095-%E3%81%A7-vst) | ネステッド ESXi で仮想スイッチ側 VLAN をためす。（VLAN4095 で VST） | Page-12-開始 |
+| 84 | [2014/02/23](https://communities.vmware.com/people/gowatana/blog/2014/02/23/%E3%83%8D%E3%82%B9%E3%83%86%E3%83%83%E3%83%89esxi-%E3%81%A7%E4%BB%AE%E6%83%B3%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81-vlan-vlan4095-%E3%81%A7-vst) | ネステッド ESXi で仮想スイッチ側 VLAN をためす。（VLAN4095 で VST） |  |
 | 83 | [2014/02/22](https://communities.vmware.com/people/gowatana/blog/2014/02/22/horizon-mirage-%E3%81%AE%E6%A6%82%E8%A6%81%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%E5%8B%95%E7%94%BB%E3%81%BF%E3%81%A4%E3%81%91%E3%81%BE%E3%81%97%E3%81%9F) | Horizon Mirage の概要がわかる動画みつけました。 |  |
 | 82 | [2014/02/19](https://communities.vmware.com/people/gowatana/blog/2014/02/19/vcenter-51-%E5%85%A5%E9%96%80-%E3%81%9D%E3%81%AE5-vsphere-51-%E7%92%B0%E5%A2%83%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B6%E8%AA%8D%E8%A8%BC%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8) | vCenter 5.1 入門 その5 （vSphere 5.1 環境のユーザ認証イメージ） |  |
 | 81 | [2014/02/16](https://communities.vmware.com/people/gowatana/blog/2014/02/16/vcenter-51-%E5%85%A5%E9%96%80-%E3%81%9D%E3%81%AE4-ad%E3%83%A6%E3%83%BC%E3%82%B6%E8%AA%8D%E8%A8%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6) | vCenter 5.1 入門 その4 （ADユーザ認証について） |  |
@@ -362,7 +362,7 @@
 | 57 | [2013/10/25](https://communities.vmware.com/people/gowatana/blog/2013/10/25/powercli-%E3%81%A7-esxi-%E3%83%AD%E3%82%B0%E3%83%90%E3%83%B3%E3%83%89%E3%83%AB%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E5%B7%A5%E5%A4%AB) | PowerCLI で ESXi ログバンドル取得するときの工夫。 |  |
 | 56 | [2013/10/24](https://communities.vmware.com/people/gowatana/blog/2013/10/24/powercli-%E3%81%A7-esxi-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%AD%E3%82%B0-%E3%83%AD%E3%82%B0%E3%83%90%E3%83%B3%E3%83%89%E3%83%AB-%E5%8F%96%E5%BE%97) | PowerCLI で ESXi システムログ（ログバンドル）取得。 |  |
 | 55 | [2013/10/14](https://communities.vmware.com/people/gowatana/blog/2013/10/14/vca%E3%81%AEe%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E5%8F%97%E8%AC%9B-%E5%8F%97%E9%A8%93%E3%81%97%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F) | VCAのEラーニング受講＆受験してみました。 |  |
-| 54 | [2013/10/13](https://communities.vmware.com/people/gowatana/blog/2013/10/13/esxi-5x-%E3%81%AE%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%A8%E3%83%AA%E3%82%B9%E3%83%88%E3%82%A2-powercli%E7%B7%A8) | ESXi 5.x のバックアップとリストア（PowerCLI編） | Page-13-開始 |
+| 54 | [2013/10/13](https://communities.vmware.com/people/gowatana/blog/2013/10/13/esxi-5x-%E3%81%AE%E3%83%90%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%A8%E3%83%AA%E3%82%B9%E3%83%88%E3%82%A2-powercli%E7%B7%A8) | ESXi 5.x のバックアップとリストア（PowerCLI編） |  |
 | 53 | [2013/09/23](https://communities.vmware.com/people/gowatana/blog/2013/09/23/vsphere-55-%E3%81%8C%E3%81%A7%E3%81%BE%E3%81%97%E3%81%9F) | vSphere 5.5 がでました。 |  |
 | 52 | [2013/09/23](https://communities.vmware.com/people/gowatana/blog/2013/09/23/esxi-55-%E3%81%AF%E4%BB%AE%E6%83%B3%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B310-vmx-10) | ESXi 5.5 は仮想マシンバージョン10（vmx-10） |  |
 | 51 | [2013/08/06](https://communities.vmware.com/people/gowatana/blog/2013/08/06/powercli-%E3%81%A7-esxi%E3%81%AEcpu%E3%82%AA%E3%83%BC%E3%83%90%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88-%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96) | PowerCLI で ESXiのCPUオーバコミット「見える化」 |  |
@@ -384,7 +384,7 @@
 | 35 | [2013/02/09](https://communities.vmware.com/people/gowatana/blog/2013/02/09/powercli-51%E3%81%A7-x-vmotion) | PowerCLI 5.1で x-vMotion |  |
 | 34 | [2013/01/19](https://communities.vmware.com/people/gowatana/blog/2013/01/19/esxi-5x-%E8%A8%AD%E5%AE%9A%E6%83%85%E5%A0%B1-%E6%B0%B8%E7%B6%9A%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-auto-backupsh) | ESXi 5.x 設定情報 永続化について（auto-backup.sh） |  |
 | 33 | [2013/01/08](https://communities.vmware.com/people/gowatana/blog/2013/01/08/esxi-5x-%E3%83%91%E3%83%83%E3%83%81%E9%81%A9%E7%94%A8%E3%81%A8vib%E3%81%AE%E7%A2%BA%E8%AA%8D) | ESXi 5.x パッチ適用と VIB の確認。 |  |
-| 32 | [2016/02/29](https://communities.vmware.com/people/gowatana/blog/2016/02/29/vmkernel-%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92-esxcli-%E3%81%A7%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-vmotion%E3%82%BF%E3%82%B0%E3%81%AA%E3%81%A9) | VMkernel ポートを esxcli で設定してみる。（vMotionタグなど） | 採用 |
+| 32 | [2016/02/29](https://communities.vmware.com/people/gowatana/blog/2016/02/29/vmkernel-%E3%83%9D%E3%83%BC%E3%83%88%E3%82%92-esxcli-%E3%81%A7%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-vmotion%E3%82%BF%E3%82%B0%E3%81%AA%E3%81%A9) | VMkernel ポートを esxcli で設定してみる。（vMotionタグなど） |  |
 | 31 | [2013/01/06](https://communities.vmware.com/people/gowatana/blog/2013/01/06/esxi-%E3%81%AE-pcpu%E3%81%AE%E3%82%AB%E3%82%A6%E3%83%B3%E3%82%BF-utilized-%E3%81%A8-used-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6) | ESXi の PCPUのカウンタ utilized と used について。 |  |
 | 30 | [2013/01/01](https://communities.vmware.com/people/gowatana/blog/2013/01/01/esxi-5x-ssh%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E5%B0%91%E3%81%97%E6%A5%BD%E3%82%92%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-%E3%81%9F%E3%81%A0%E3%81%97%E9%9D%9E%E6%8E%A8%E5%A5%A8) | ESXi 5.x SSHログインで少し楽をする方法（ただし非推奨） |  |
 | 29 | [2012/12/31](https://communities.vmware.com/people/gowatana/blog/2012/12/31/%E8%A6%81%E6%B3%A8%E6%84%8F-vcenter51-%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E6%83%85%E5%A0%B1%E3%81%8C30%E6%97%A5%E5%88%86%E3%81%97%E3%81%8B%E6%AE%8B%E3%82%89%E3%81%AA%E3%81%84) | 要注意： vCenter 5.1 パフォーマンス情報が30日分しか残らない? |  |
@@ -392,7 +392,7 @@
 | 27 | [2012/12/24](https://communities.vmware.com/people/gowatana/blog/2012/12/24/vcenter51-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%80%E3%81%A8%E3%81%8D%E3%81%AB-vcenter%E5%88%9D%E5%BF%83%E8%80%85%E3%82%80%E3%81%91) | vCenter5.1 インストールに取り組むときに（vCenter初心者むけ） |  |
 | 26 | [2012/12/23](https://communities.vmware.com/people/gowatana/blog/2012/12/23/esxi%E3%81%A7%E3%81%AE%E5%89%8A%E9%99%A4%E4%B8%AD%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%81%AE%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0) | ESXiでの削除中スナップショットのモニタリング |  |
 | 25 | [2012/12/23](https://communities.vmware.com/people/gowatana/blog/2012/12/23/%E4%BB%AE%E6%83%B3%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%AB%E3%83%90%E3%83%83%E3%82%AF-vmx-09-8) | 仮想マシンバージョンのロールバック（vmx-09→8） |  |
-| 24 | [2012/12/22](https://communities.vmware.com/people/gowatana/blog/2012/12/22/vcentersso-%E9%AB%98%E5%8F%AF%E7%94%A8%E6%80%A7kb-sso%E3%81%A1%E3%81%8C%E3%81%84) | vCenterSSO 高可用性KB / SSOちがい | Page-14-開始 |
+| 24 | [2012/12/22](https://communities.vmware.com/people/gowatana/blog/2012/12/22/vcentersso-%E9%AB%98%E5%8F%AF%E7%94%A8%E6%80%A7kb-sso%E3%81%A1%E3%81%8C%E3%81%84) | vCenterSSO 高可用性KB / SSOちがい |  |
 | 23 | [2012/12/22](https://communities.vmware.com/people/gowatana/blog/2012/12/22/vcentersso%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%E7%B3%BBkb) | vCenterSSOのトラブルシュート系KB |  |
 | 22 | [2012/12/21](https://communities.vmware.com/people/gowatana/blog/2012/12/21/vcentersso%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9%E3%81%AE%E3%81%8B%E3%82%8F%E3%82%8A%E3%81%AB) | vCenterSSOベストプラクティスのかわりに。 |  |
 | 21 | [2012/12/15](https://communities.vmware.com/people/gowatana/blog/2012/12/15/esxi%E3%81%8C%E5%A3%8A%E3%82%8C%E3%81%9F%E6%99%82%E3%81%AE%E5%AF%BE%E5%BF%9C-%E7%89%B9%E3%81%ABusb%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%AE%E5%A0%B4%E5%90%88) | ESXiが壊れた時の対応（特にUSBインストールの場合） |  |
