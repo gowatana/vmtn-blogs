@@ -2,6 +2,22 @@
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 430 | [2020/07/30](https://communities.vmware.com/people/gowatana/blog/2020/07/30/wcp-14) | vSphere with Kubernetes ラボ環境構築。Part-14: Tanzu Kubernetes Cluster への接続 / Pod 起動編 |  |
+| 429 | [2020/06/06](https://communities.vmware.com/people/gowatana/blog/2020/06/06/wcp-13) | vSphere with Kubernetes ラボ環境構築。Part-13: Supervisor Namespace での Tanzu Kubernetes Cluster 作成編 |  |
+| 428 | [2020/06/02](https://communities.vmware.com/people/gowatana/blog/2020/06/02/wcp-12) | vSphere with Kubernetes ラボ環境構築。Part-12: Supervisor Namespace での Tanzu Kubernetes Cluster 準備編 |  |
+| 427 | [2020/06/01](https://communities.vmware.com/people/gowatana/blog/2020/06/01/wcp-11) | vSphere with Kubernetes ラボ環境構築。Part-11: kubectl で vSphere Pod 起動編 |  |
+| 426 | [2020/05/29](https://communities.vmware.com/people/gowatana/blog/2020/05/29/wcp-10) | vSphere with Kubernetes ラボ環境構築。Part-10: Supervisor Cluster 有効化編 |  |
+| 425 | [2020/05/29](https://communities.vmware.com/people/gowatana/blog/2020/05/29/wcp-09) | vSphere with Kubernetes ラボ環境構築。Part-09: Tier-0 ゲートウェイ作成編 |  |
+| 424 | [2020/05/28](https://communities.vmware.com/people/gowatana/blog/2020/05/28/wcp-08) | vSphere with Kubernetes ラボ環境構築。Part-08: NSX Edge 設定編 |  |
+| 423 | [2020/05/28](https://communities.vmware.com/people/gowatana/blog/2020/05/28/wcp-07) | vSphere with Kubernetes ラボ環境構築。Part-07: NSX Edge デプロイ編 |  |
+| 422 | [2020/05/28](https://communities.vmware.com/people/gowatana/blog/2020/05/28/wcp-06) | vSphere with Kubernetes ラボ環境構築。Part-06: ホスト トランスポート ノード準備編 |  |
+| 421 | [2020/05/27](https://communities.vmware.com/people/gowatana/blog/2020/05/27/wcp-05) | vSphere with Kubernetes ラボ環境構築。Part-05: NSX Manager 設定編 |  |
+| 420 | [2020/05/27](https://communities.vmware.com/people/gowatana/blog/2020/05/27/wcp-04) | vSphere with Kubernetes ラボ環境構築。Part-04: NSX Manager デプロイ編 |  |
+| 419 | [2020/05/26](https://communities.vmware.com/people/gowatana/blog/2020/05/26/wcp-03) | vSphere with Kubernetes ラボ環境構築。Part-03: 仮想マシン ストレージ ポリシー準備編 |  |
+| 418 | [2020/05/26](https://communities.vmware.com/people/gowatana/blog/2020/05/26/wcp-02) | vSphere with Kubernetes ラボ環境構築。Part-02: vSphere 事前準備編 |  |
+| 417 | [2020/05/26](https://communities.vmware.com/people/gowatana/blog/2020/05/26/wcp-01) | vSphere with Kubernetes ラボ環境構築。Part-01: 環境説明編 |  |
+| 416 | [2020/05/04](https://communities.vmware.com/people/gowatana/blog/2020/05/04/antrea-v06-octant) | 自宅ラボの Kuberente に Antrea と Octant をインストールしてみる。 |  |
+| 415 | [2020/04/30](https://communities.vmware.com/people/gowatana/blog/2020/04/30/k8s-capv-photon) | Cluster API で vSphere 7.0 に Kuberentes クラスタを作成してみる。（Photon OS 3.0 編） |  |
 | 414 | [2020/03/05](https://communities.vmware.com/people/gowatana/blog/2020/03/05/vsan-scsi3pr) | vSAN の SCSI-3 Persistent Reservation（SCSI-3 PR）を Linux で確認してみる。 |  |
 | 413 | [2020/02/27](https://communities.vmware.com/people/gowatana/blog/2020/02/27/drs-vmotions) | vCenter と vROps で vMotion / DRS を観察してみる。 |  |
 | 412 | [2020/01/30](https://communities.vmware.com/people/gowatana/blog/2020/01/30/vsan-tweets-2019-12) | vSAN のつぶやき。 Advent Calendar 2019 - ふりかえり。 |  |
