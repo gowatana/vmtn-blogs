@@ -1,4 +1,4 @@
-$num_max = 414
+$num_max = 431
 $url_base = "https://communities.vmware.com/people/gowatana/blog?start="
 $page_interval = 15
 
