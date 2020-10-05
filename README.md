@@ -2,6 +2,14 @@
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 438 | [2020/09/21](https://communities.vmware.com/people/gowatana/blog/2020/09/21/tanzu-k8s-cluster-access) | Tanzu Kubernetes Cluster への接続。（実験編） |  |
+| 437 | [2020/09/18](https://communities.vmware.com/people/gowatana/blog/2020/09/18/vsphere-pod-anti-affinity) | vSphere Pod で Anti-Affinity を試してみる。 |  |
+| 436 | [2020/09/14](https://communities.vmware.com/people/gowatana/blog/2020/09/14/dup-name-vsphere-pods) | Supervisor Cluster 名前空間を分けて同名 vSphere Pod を起動してみる。 |  |
+| 435 | [2020/09/12](https://communities.vmware.com/people/gowatana/blog/2020/09/12/vsphere7-cntentlib) | vSphere 7.0 のコンテンツ ライブラリで仮想マシン テンプレートをチェックアウト / チェックインしてみる。 |  |
+| 434 | [2020/09/01](https://communities.vmware.com/people/gowatana/blog/2020/09/01/wcp-delete-pod) | vSphere with Kubernetes でうまく削除できなかった vSphere Pod を削除してみる。 |  |
+| 433 | [2020/08/31](https://communities.vmware.com/people/gowatana/blog/2020/08/31/k8s-powercli) | Kubernetes で PowerCLI を起動してみる。 |  |
+| 432 | [2020/08/26](https://communities.vmware.com/people/gowatana/blog/2020/08/26/wcp-00) | vSphere with Kubernetes ラボ環境構築。（まとめ） |  |
+| 431 | [2020/08/16](https://communities.vmware.com/people/gowatana/blog/2020/08/16/wcp-15) | vSphere with Kubernetes ラボ環境構築。Part-15: Tanzu Kubernetes Cluster での PSP 使用 / Deployment 作成編 |  |
 | 430 | [2020/07/30](https://communities.vmware.com/people/gowatana/blog/2020/07/30/wcp-14) | vSphere with Kubernetes ラボ環境構築。Part-14: Tanzu Kubernetes Cluster への接続 / Pod 起動編 |  |
 | 429 | [2020/06/06](https://communities.vmware.com/people/gowatana/blog/2020/06/06/wcp-13) | vSphere with Kubernetes ラボ環境構築。Part-13: Supervisor Namespace での Tanzu Kubernetes Cluster 作成編 |  |
 | 428 | [2020/06/02](https://communities.vmware.com/people/gowatana/blog/2020/06/02/wcp-12) | vSphere with Kubernetes ラボ環境構築。Part-12: Supervisor Namespace での Tanzu Kubernetes Cluster 準備編 |  |
