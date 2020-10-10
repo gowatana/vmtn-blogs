@@ -2,6 +2,9 @@
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 441 | [2020/10/08](https://communities.vmware.com/people/gowatana/blog/2020/10/08/nsxt30-dfw-tz-02) | NSX-T 3.0： DFW を VLAN セグメントで使用してみる。（後編） |  |
+| 440 | [2020/10/07](https://communities.vmware.com/people/gowatana/blog/2020/10/07/nsxt30-dfw-tz-01) | NSX-T 3.0： DFW を VLAN セグメントで使用してみる。（前編） |  |
+| 439 | [2020/10/07](https://communities.vmware.com/people/gowatana/blog/2020/10/07/nsxt30-simple-dfw-lab) | NSX-T 3.0 のシンプルな DFW ラボを構築する。 |  |
 | 438 | [2020/09/21](https://communities.vmware.com/people/gowatana/blog/2020/09/21/tanzu-k8s-cluster-access) | Tanzu Kubernetes Cluster への接続。（実験編） |  |
 | 437 | [2020/09/18](https://communities.vmware.com/people/gowatana/blog/2020/09/18/vsphere-pod-anti-affinity) | vSphere Pod で Anti-Affinity を試してみる。 |  |
 | 436 | [2020/09/14](https://communities.vmware.com/people/gowatana/blog/2020/09/14/dup-name-vsphere-pods) | Supervisor Cluster 名前空間を分けて同名 vSphere Pod を起動してみる。 |  |
