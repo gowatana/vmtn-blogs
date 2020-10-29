@@ -2,6 +2,11 @@
 
 | No | Link | Title | Status |
 | --- | --- | --- | --- |
+| 446 | [2020/10/29](https://communities.vmware.com/people/gowatana/blog/2020/10/29/tanzu-basic-04) | vSphere 7.0 U1 での with Tanzu ラボ環境構築。Part-04 TKC 作成編 |  |
+| 445 | [2020/10/28](https://communities.vmware.com/people/gowatana/blog/2020/10/28/tanzu-basic-03) | vSphere 7.0 U1 での with Tanzu ラボ環境構築。Part-03 ワークロード管理 有効化編 |  |
+| 444 | [2020/10/27](https://communities.vmware.com/people/gowatana/blog/2020/10/27/tanzu-basic-02) | vSphere 7.0 U1 での with Tanzu ラボ環境構築。Part-02 HAProxy デプロイ編 |  |
+| 443 | [2020/10/26](https://communities.vmware.com/people/gowatana/blog/2020/10/26/tanzu-basic-01) | vSphere 7.0 U1 での with Tanzu ラボ環境構築。Part-01 事前準備編 |  |
+| 442 | [2020/10/10](https://communities.vmware.com/people/gowatana/blog/2020/10/10/wcp-70u1) | vSphere 7.0 と 7.0 U1 での「ワークロード管理」有効化の違いについて。（NSX-T あり編） |  |
 | 441 | [2020/10/08](https://communities.vmware.com/people/gowatana/blog/2020/10/08/nsxt30-dfw-tz-02) | NSX-T 3.0： DFW を VLAN セグメントで使用してみる。（後編） |  |
 | 440 | [2020/10/07](https://communities.vmware.com/people/gowatana/blog/2020/10/07/nsxt30-dfw-tz-01) | NSX-T 3.0： DFW を VLAN セグメントで使用してみる。（前編） |  |
 | 439 | [2020/10/07](https://communities.vmware.com/people/gowatana/blog/2020/10/07/nsxt30-simple-dfw-lab) | NSX-T 3.0 のシンプルな DFW ラボを構築する。 |  |
